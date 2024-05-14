@@ -1,2 +1,3 @@
-# hello-world
-Hello world program for class
+#About me
+
+My name is Paul Connolly
